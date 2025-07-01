@@ -27,7 +27,7 @@ This website serves as a personal portfolio and includes:
 
 You can access the deployed portfolio via the following link:
 
-🔗 (https://vercel.com/ranabadawy181-9530s-projects/portfolio-rana)
+🔗  (https://vercel.com/ranabadawy181-9530s-projects/portfolio-rana)
 
 ---
 
